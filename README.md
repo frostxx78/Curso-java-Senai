@@ -26,4 +26,4 @@ public class Exercicio1 {
 }
 </code>
 
-*esse programa foi usado para ler uma temperatura em graus Celsius e converta-la em Fahrenheit. *
+*esse programa foi usado para pegar uma temperatura em graus Celsius e converta-la em Fahrenheit. *
