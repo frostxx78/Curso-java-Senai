@@ -27,3 +27,5 @@ public class Exercicio1 {
 </code>
 
 *esse programa foi usado para pegar uma temperatura em graus Celsius e converta-la em Fahrenheit. *
+
+*LEMBRAR DE TERMINAR O EXERCICIO 5 EM DIANTE*
