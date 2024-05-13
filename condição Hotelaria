@@ -1,0 +1,7 @@
+if (ocuparQuarto = false) {
+    reservas.add(reserva);
+}
+
+if (ocuparQuarto = true) {
+    System.out.println("Não há mais quartos disponiveis");
+}
