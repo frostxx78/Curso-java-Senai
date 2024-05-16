@@ -31,8 +31,8 @@ exibirInformacoes();
     Profissao prof2 = new Profissao("Doutor",
                                      (byte)6, 9750.50f, "Medico");
     Profissao prof3 = new Profissao("Cantor",
-                                     (byte)6, 499750.50f, "Kpop");
+                                     (byte)6, 4950.50f, "Kpop");
     Profissao prof4 = new Profissao("Thiagao",
-                                     (byte)6, 46645456750.50f, "Esperto");
+                                     (byte)6, 46640.50f, "Esperto");
   }
 }
